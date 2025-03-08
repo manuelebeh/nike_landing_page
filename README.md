@@ -2,7 +2,7 @@
 
 A modern, responsive Nike landing page built with React, Vite, and Tailwind CSS.
 
-![Nike Landing Page](https://github.com/yourusername/nike_landing_page/raw/main/screenshot.png)
+![Nike Landing Page](https://github.com/manuelebeh/nike_landing_page/src/assets/images/hero-section.png)
 
 ## 🚀 Features
 
